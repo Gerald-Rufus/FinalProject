@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;            
+  padding: 15px 30px;
+  background-color: slategray;      
+}
+
+.nav-links {
+  list-style: none; 
+  display: flex;    
+  gap: 55px;
+}
+
+.nav-links a {
+  color: black;
+  text-decoration: none;
+}
+
+body {
+  background-color: moccasin;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
